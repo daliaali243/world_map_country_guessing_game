@@ -20,6 +20,7 @@ Required Files
  1. map.gif – The world map image (used as the game background)
  2. coordinates.csv – Contains country names and their coordinates
  3. missed.csv – Automatically generated to save unguessed countries
+
 How to Play
  1. Run the game:
  2. A window with the world map will open
