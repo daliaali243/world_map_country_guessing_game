@@ -4,7 +4,7 @@ Description
 
 An interactive Python game where you guess countries on a world map. Correct answers are marked with a red circle, and the country name is displayed. The game tracks your progress and saves unguessed countries automatically.
 
-⸻
+---
 
 Features
  • Graphical interface using Turtle Graphics
@@ -14,7 +14,7 @@ Features
  • Save unguessed countries to missed.csv
  • Exit anytime by typing "Exit"
 
-⸻
+---
 
 Required Files
  1. map.gif – The world map image (used as the game background)
